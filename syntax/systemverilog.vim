@@ -68,5 +68,5 @@ highlight! default link svDelimiter Delimiter
 highlight! default link svObjectFunctions Function
 
 highlight! default link svCase none
-highlight! default link svInvPre none
-highlight! default link svInvSystemFunction none
+highlight! default link svInvPre Macro
+highlight! default link svInvSystemFunction Keyword
